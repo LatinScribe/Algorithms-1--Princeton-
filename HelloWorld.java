@@ -2,6 +2,8 @@
  *  Name:              Henry "TJ" Chen
  *  Adapted from Algorithms and Datastructures 1 (Princeton)
  *  Last modified:     July 9, 2023
+ *
+ * Print Hello world! Initiation to be a programmer :)
  **************************************************************************** */
 
 public class HelloWorld {

@@ -2,6 +2,8 @@
  *  Name:              Henry "TJ" Chen
  *  Adapted from Algorithms and Datastructures 1 (Princeton)
  *  Last modified:     July 9, 2023
+ *
+ * takes two names as command-line arguments and prints out a message
  **************************************************************************** */
 
 public class HelloGoodbye {
