@@ -9,6 +9,9 @@
  *
  * ****************************************************************************/
 
+import edu.princeton.cs.algs4.StdDraw;
+import edu.princeton.cs.algs4.StdRandom;
+
 public class Barnsley {
 
     public static void main(String[] args) {

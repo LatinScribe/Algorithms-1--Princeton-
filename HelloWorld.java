@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Name:              Henry "TJ" Chen
+ *  Adapted from Algorithms and Datastructures 1 (Princeton)
+ *  Last modified:     July 9, 2023
  **************************************************************************** */
 
 public class HelloWorld {
