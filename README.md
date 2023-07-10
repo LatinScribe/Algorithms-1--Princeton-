@@ -2,7 +2,7 @@
  Practice project demonstrating java - by a U of T student
 
 Instructions for running programs in this directory:
-1. visit the follow site to properly set up the environment for this project: \
+1. Visit the follow site to properly set up the environment for this project: \
    - Windows 8, 10, or 11 (64-bit version): https://lift.cs.princeton.edu/java/windows/
    - Mac OS: https://lift.cs.princeton.edu/java/mac/
    - Linux: https://lift.cs.princeton.edu/java/linux/
