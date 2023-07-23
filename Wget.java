@@ -3,7 +3,7 @@
  *  Last modified: July 22, 2023
  *
  * Reads in a URL specified on the command line and saves its contents
- * in a file with the given name.
+ * in a file with the given name. DOES NOT output the data
  *
  * % java Wget https://introcs.cs.princeton.edu/data/codes.csv
  * % more codes.csv

@@ -7,7 +7,8 @@
  * https://danluu.com/sattolo/#fn:P
  *
  * NOTE: This does NOT generate a random derangement with uniform probability
- * It instead guarantees a derangement with exactly one cycle
+ * It instead guarantees a derangement with exactly one cycle, which is uniformly
+ * generated
  *
  *  %  echo 0 1 2 3 4 | java SattoloCycle
  *  1
